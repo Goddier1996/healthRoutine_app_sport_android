@@ -1,0 +1,24 @@
+com/example/healthroutine/MenuScreen.java
+ com.example.healthroutine.MenuScreen
+com/example/healthroutine/BMIScreen.java
+ com.example.healthroutine.BMIScreen
+ com.example.healthroutine.BMIScreen$1
+com/example/healthroutine/CountWaterScreen.java
+ com.example.healthroutine.CountWaterScreen
+ com.example.healthroutine.CountWaterScreen$1
+com/example/healthroutine/InfoScreen.java
+ com.example.healthroutine.InfoScreen
+com/example/healthroutine/MainActivity.java
+ com.example.healthroutine.MainActivity
+ com.example.healthroutine.MainActivity$1
+com/example/healthroutine/BMICalc.java
+ com.example.healthroutine.BMICalc
+com/example/healthroutine/BuildConfig.java
+ com.example.healthroutine.BuildConfig
+com/example/healthroutine/PedometerScreen.java
+ com.example.healthroutine.PedometerScreen
+ com.example.healthroutine.PedometerScreen$1
+com/example/healthroutine/DietMenuScreen.java
+ com.example.healthroutine.DietMenuScreen
+com/example/healthroutine/users.java
+ com.example.healthroutine.users
